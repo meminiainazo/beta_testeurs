@@ -1,0 +1,2 @@
+id,timestamp,name,session_id,user_id,metadata,html_path,latency,total_cost,observations,updatedAt,createdAt
+c501954f-60e5-452d-be6d-ae578361c206,2024-07-16 17:09:26.565000+00:00,Ingest/Create,40a508b2-7292-400b-a74c-0a34b517769e,5392a00a-4d18-4306-8273-8721729c247b,,/project/clw4rspmz0001123ymqpuz0iv/traces/c501954f-60e5-452d-be6d-ae578361c206,10.465999841690063,0.0,['cb3a218a-f560-41b9-8ffd-a255dab7ee11'],2024-07-16T17:09:37.255Z,2024-07-16T17:09:27.161Z

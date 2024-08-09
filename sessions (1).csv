@@ -1,0 +1,213 @@
+"id","collection_id","status","action","type","created_at","last_updated_at","alias","user_id"
+"b29851bc-2175-4da7-bb3a-f52b99509bb1","65f6410d-426d-47ed-8109-eba97f153df0","init","start","chat-with-data","2024-06-26 09:14:36","2024-06-26 10:24:31",NULL,NULL
+"b320f75d-3288-45ec-9141-800292520a3b","ec9693b2-b5d8-419f-861d-0403d071ea76","init","start","chat-with-data","2024-07-05 11:22:44","2024-07-10 09:43:50",NULL,NULL
+"b3686d9b-e55a-483a-88c2-3463e06e34d3","f6bb243d-af32-40b7-b28e-6ff69880f2b7","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"b3c53ca9-0787-43e1-b4ad-db84f134a555","eee273b4-a7c9-4366-aac8-bdf3dd3561c5","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"b3cc15b9-4238-4046-a9fe-c46d960eeb55","d5d7b2ac-4c36-40be-9ff0-ac48ba10ebdd","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"b41e98f1-3241-4e39-9013-5ea91b1bdd3e","9348d47b-0f91-4f2f-a66f-74da663f403d","init","start","chat-with-data","2024-07-17 14:59:29","2024-07-17 15:05:03","Raisons de ne pas perdre de poids",NULL
+"b4230044-4acc-4be4-8b49-43a4f61d045f","1f7f2587-e2f4-410e-bfc8-c511ae9c70b2","init","start","chat-with-data","2024-06-23 17:00:18","2024-06-23 17:15:59",NULL,NULL
+"b4a857f5-57d8-4673-b426-652fd9742535","1f7f2587-e2f4-410e-bfc8-c511ae9c70b2","init","start","chat-with-data","2024-06-24 21:46:41","2024-06-24 21:47:43",NULL,NULL
+"b4bae50d-8d00-4ec3-8fdf-5b641793b8c9","131f1685-0f06-449a-bf36-5e840f7b8e2f","init","start","chat-with-data","2024-07-29 13:02:24","2024-07-29 13:05:18","Analyse SWOT pour Alternants",NULL
+"b50cb931-aa65-4d80-8894-2612dccd29c5","ada40f4b-b1f3-4b32-a671-12c35322314c","init","start","coach-ia","2024-07-18 13:41:33","2024-07-18 13:42:27","Révolution créative grâce à l'IA générative",NULL
+"b566e063-d43e-4a4f-a799-88935ab59d26","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"b575e885-feb5-4161-8f15-c2f4278aee83","5e39bb9f-79cb-425b-ab0c-579d89c0f4c2","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"b5d5fbc3-1b49-416d-bfb3-8a98cf2d5250","03d4f714-9a71-4fab-9ff2-c0fd5d1e97b3","init","start","chat-with-data","2024-07-25 08:38:40","2024-07-25 16:18:55","Réseaux et Retrouvailles",NULL
+"b7108b3f-d67a-46fb-b519-7d2307f63aaa","5587bcef-5bc4-4340-9d8a-09947f8afd64","init","start","chat-with-data","2024-07-16 11:53:53","2024-07-16 11:56:01","Stratégie de Vente pour New Tone Studio",NULL
+"b7513390-ff02-4598-92a9-f86a6eb5df6c","748f27fd-75cc-4313-bc4d-be0a6bad0e15","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"b7891ac0-fdf3-428c-a0f2-024b12c9696b","6916a882-1249-4afd-8097-13a58013accb","init","start","coach-ia","2024-07-23 17:13:33","2024-07-23 17:16:21","Présentation PS",NULL
+"b7b403fe-43d0-4edb-b1bd-66eb9fc5b232","e94dc56f-f41f-4b7b-bcd4-84954a286cd0","init","start","coach-ia","2024-06-26 08:33:43","2024-06-26 08:51:21",NULL,NULL
+"b7f8f16b-2778-48e7-84d9-a2b580586310","77d9e334-1c59-42ed-a332-db302ebf1241","init","start","coach-ia","2024-07-18 08:44:41","2024-07-18 09:01:08","Maîtrise des outils bureautiques
+Gestion du temps ",NULL
+"b8251f8c-68cf-4a9b-a8fa-9335ed90847f","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"b8742b96-c79f-46a1-9266-9bdbceda157e","d632bbfc-5a88-4257-9378-85d9ceadff10","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"b8d4b3ac-4586-4495-ac5d-c52130964f8b","a58e1ada-7ff3-41b3-be7f-71e7872111ae","init","start","coach-ia","2024-07-19 09:46:24","2024-07-19 09:46:24",NULL,NULL
+"b97d0688-b692-4011-8d44-539e25a1bb6a","02c32f70-9a3c-4eda-ada3-c5ec2ad38d18","init","start","chat-with-data","2024-07-05 12:52:39","2024-07-05 12:52:39",NULL,NULL
+"b999cf14-e853-4e38-92d6-e794bcaa90cb","015c6170-ffa1-4498-b714-52cb9aac0e31","init","start","coach-ia","2024-07-22 21:34:10","2024-07-22 21:41:23","Harmonisation de texte",NULL
+"ba558ebf-6c0c-4b7e-bec0-8d84b08e026e","5a1331df-8d97-4517-a60f-7a32c4d5a63e","init","start","chat-with-data","2024-07-08 15:57:04","2024-07-08 16:15:29",NULL,NULL
+"ba61a088-2351-4db9-8580-e4e5c5486c93","85bf09ba-272f-448c-8bd9-8c993a7edb97","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"bbb503d4-4966-4730-a34d-e18c58ea2478","98392cf2-f7b1-4f5d-a9fe-d3efa67e7ebd","init","start","chat-with-data","2024-08-01 08:56:55","2024-08-01 08:57:15","Correction de texte",NULL
+"bbe02b7d-8b53-455d-a03f-df7d17de466f","ab05186c-f2cb-4d8c-bf65-e90172dcb392","init","start","coach-ia","2024-07-30 14:15:43","2024-07-30 14:24:00","Catchphrase améliorée",NULL
+"bcedf914-6005-4899-9054-be48ef9bad28","65ac3e99-14c6-4529-b27b-0b5a037a310d","init","start","chat-with-data","2024-07-23 16:21:45","2024-07-23 16:23:23","Niveau d'autonomie au travail",NULL
+"bd873f36-9d70-4e32-b127-b0397a580638","6916a882-1249-4afd-8097-13a58013accb","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"bd8913d9-d7ba-4a9d-ba6d-2170895d4292","8fc6d934-3e2f-450b-8a39-ed0bcb037437","init","start","chat-with-data","2024-07-24 15:33:43","2024-07-24 15:34:33",NULL,NULL
+"bdd4740a-67c6-4ce3-a4e7-b4b46326d793","355b2dfa-9f73-4c06-8749-c47778e8ad06","init","start","chat-with-data","2024-06-23 15:43:26","2024-06-23 15:45:20",NULL,NULL
+"bde2d785-8f54-44f7-b3d7-c3151e4cdec4","3db64e03-4be3-4b1e-94a3-55486195d6ee","init","start","chat-with-data","2024-07-15 05:44:12","2024-07-15 05:44:31","Différences de position entre Vial et Durain",NULL
+"bdff2668-e511-4c5b-a9e2-48bb49529165","77d9e334-1c59-42ed-a332-db302ebf1241","init","start","chat-with-data","2024-07-25 13:34:56","2024-07-25 13:38:37","Encarts de formation",NULL
+"be09a40d-c832-441c-9b29-b243aa357238","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"be7227b7-92b0-4afc-8612-9a09cccfe4d3","6916a882-1249-4afd-8097-13a58013accb","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"be90c082-34ca-4d63-9c4a-c890438cd621","5da66891-11aa-4bae-bfde-7c5117754baf","init","start","chat-with-data","2024-07-25 10:16:10","2024-07-25 10:28:33","L'Épopée Cycliste",NULL
+"becb586e-f72b-42d8-933d-f270e5e04ddb","d6443201-06a9-4607-930a-d87856cca443","init","start","chat-with-data","2024-07-25 07:08:30","2024-07-25 07:08:30",NULL,NULL
+"bf84ed4f-4667-4d42-90d2-89fa278ef28c","7b3ea373-5dc2-4dbf-a305-7fb8407a8181","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"bfb93c3f-8df8-43f3-af42-8a58cce1d619","1cdf9fba-4c8c-4943-9fb4-006f6b2c2b47","init","start","coach-ia",NULL,NULL,NULL,NULL
+"c053a2f3-2fcb-4f81-a0a8-6d5696be8538","980277d5-a67e-499c-ad61-c5daa614ec14","init","start","chat-with-data","2024-07-23 06:49:14","2024-07-23 06:51:10","Amélioration de la Landing Page avec myAuxilium",NULL
+"c05ac35b-1598-4cd2-be17-7bd57f47cd00","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"c0bfefa9-f337-494c-99b0-e79fc81391c3","df14ac20-b428-4188-ac7d-177ce6968777","init","start","coach-ia","2024-07-02 11:13:44","2024-07-02 11:17:10",NULL,NULL
+"c18d436e-3fbb-45da-bd34-308441462847","41321215-6f38-430d-8e2d-9bd85dc1288a","init","start","chat-with-data","2024-07-11 08:23:44","2024-07-11 08:23:57","Programme de musculation complet",NULL
+"c19cb9c8-817d-469d-af18-462aed2a8050","8cda0810-4230-4305-8892-41c7d2a51f0c","init","start","chat-with-data","2024-07-11 15:22:43","2024-07-11 15:22:48",NULL,NULL
+"c28a10ea-3c3c-4ad7-8302-f798444d8041","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"c28a2720-61fe-4590-9f79-6be5c3339300","f7fd91c5-70a5-4911-926a-37145a8b8bda","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"c2f5977f-969c-4b31-8d70-41a92c115e3d","7b3ea373-5dc2-4dbf-a305-7fb8407a8181","init","start","chat-with-data","2024-06-27 13:02:49","2024-06-27 13:02:49",NULL,NULL
+"c389f664-eb93-4853-bdd7-80f472b8471b","131f1685-0f06-449a-bf36-5e840f7b8e2f","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"c3c422be-33d6-4cbd-8da5-b10e15880e62","41321215-6f38-430d-8e2d-9bd85dc1288a","init","start","coach-ia","2024-07-02 14:57:23","2024-07-06 14:33:08",NULL,NULL
+"c45dcc7d-93f0-450d-9463-3ac0e77230e5","479981fa-6174-4456-8619-5154ad42431d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"c48f90c3-7489-4bc1-b9ec-92bc22c0904e","2ea05452-6fd2-4844-8c4e-45d90bab9cc9","init","start","chat-with-data","2024-07-26 07:27:10","2024-07-26 07:27:29","Greeting",NULL
+"c52e9d7b-b870-4118-adfc-7deecc0f69b7","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"c52f015b-f9d3-4a7d-a09a-d4cd87112f7d","d3cb6a40-eced-4a11-8620-7b82b43cd42c","init","start","coach-ia",NULL,NULL,NULL,NULL
+"c670674c-7e21-4d77-a697-8b6ad006359e","ab2ae71d-9cfd-4da3-8c05-53a92517f61c","init","start","chat-with-data","2024-07-09 19:24:21","2024-07-09 19:24:21",NULL,NULL
+"c6a4ebe9-1b25-499f-827f-481f0afd8f85","98392cf2-f7b1-4f5d-a9fe-d3efa67e7ebd","init","start","chat-with-data","2024-07-18 11:24:41","2024-07-23 21:36:20","Réunion reportée pour cause de décès",NULL
+"c6fe7961-1688-41d8-924a-c1411a7213c5","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"c7d433ca-19fc-4940-967b-b682fe3707af","d807eb86-d22d-4e5f-bf9c-de26a8904481","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"c7e78f1e-6cd3-42d5-94e1-d4f32ca0ac84","3db64e03-4be3-4b1e-94a3-55486195d6ee","init","start","chat-with-data","2024-07-10 09:57:11","2024-07-11 07:30:54","Recommandations Commission Sénat",NULL
+"c84486e7-5646-4f09-b0a6-4a5d9eeb9d69","eee273b4-a7c9-4366-aac8-bdf3dd3561c5","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"c860daf1-4abe-4839-9e8d-6ae47aa20905","f6bb243d-af32-40b7-b28e-6ff69880f2b7","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"c860e060-480d-431b-8179-1ee125942e99","ef875d9b-6b9b-4ef0-ba5c-6887b7767746","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"c8cf5612-3550-4979-947e-6d604cc853a9","51e2c035-b0c4-478a-aa3d-8ee7ab5ee015","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"c8e27bce-fbe5-4bac-bb81-91997b22730b","336bcd65-995a-4b7e-8a7a-a93e487fc176","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"c93bdbdc-a5e8-4873-bc37-bbb4f7cd1530","eee273b4-a7c9-4366-aac8-bdf3dd3561c5","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"c99ef88f-eac6-4a68-9644-14e5e4e9b697","40a508b2-7292-400b-a74c-0a34b517769e","init","start","chat-with-data","2024-07-16 17:09:56","2024-07-16 17:09:56",NULL,NULL
+"c9ce486e-8863-4dda-8e6e-3a8f147827f9","016e92d1-817d-4093-bd1f-d76f4c46fb11","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"c9cf0ec8-846e-4715-8005-8149322203b4","7b48e6f4-82d7-4eee-8506-beb3493eec8d","init","start","coach-ia","2024-06-29 20:42:00","2024-06-29 20:42:00",NULL,NULL
+"ca1739d5-f448-4033-b9bf-67dcdb33aba5","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"ca6cde44-35d9-4d52-a03e-3546e527e5df","03d4f714-9a71-4fab-9ff2-c0fd5d1e97b3","init","start","chat-with-data","2024-07-15 07:43:23","2024-07-15 10:12:44","Formation ateliers IA",NULL
+"ca8fe241-b8f5-4724-90f1-193a8282c716","f7fd91c5-70a5-4911-926a-37145a8b8bda","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"caa99870-8670-4181-a60c-63d7469ee271","5d395519-c82e-462a-b38c-42ef69b22473","init","start","coach-ia","2024-07-09 05:19:33","2024-07-09 05:19:33",NULL,NULL
+"cb2ff720-41ca-428e-b2ee-acb8e5d4ff76","1f7f2587-e2f4-410e-bfc8-c511ae9c70b2","init","start","chat-with-data","2024-06-23 16:51:02","2024-06-23 16:54:05",NULL,NULL
+"cb64d6c4-8272-43d2-991d-108f28c28abf","8b0e209e-7f6f-452d-87c8-c42e49b05c61","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"cbd648f8-07d1-4cf3-bbea-dfc561b8ab5f","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"cbd6d413-e333-4e69-a21a-c8f62c514c99","98392cf2-f7b1-4f5d-a9fe-d3efa67e7ebd","init","start","chat-with-data","2024-07-23 21:46:46","2024-07-23 21:48:22","Questionnaire Beta Testeurs - myA SaaS",NULL
+"ccb38c53-a778-4e54-af6b-1465161ec8a1","5ada4510-5f79-4d29-9a47-40cff3d90dc2","init","start","chat-with-data","2024-08-01 15:03:50","2024-08-01 15:04:09","Obsidian Inquiry",NULL
+"ccedb08f-14dd-4236-ac61-7613bf0777e2","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"ccf957e7-b4d8-4692-a6ce-cc4862a24939","8cda0810-4230-4305-8892-41c7d2a51f0c","init","start","chat-with-data","2024-07-11 15:03:38","2024-07-11 15:03:59",NULL,NULL
+"cd3f3f57-dd4e-433e-b106-dcc70b544603","03d4f714-9a71-4fab-9ff2-c0fd5d1e97b3","init","start","chat-with-data","2024-07-09 07:51:37","2024-07-09 07:51:37",NULL,NULL
+"ce03735e-8e9e-4f66-b8f1-e7c1132db5f5","1887bab8-34e1-4e1c-b893-35899a7ceaff","init","start","coach-ia","2024-08-06 15:01:17","2024-08-06 15:25:31","Journal de paie",NULL
+"ce046a84-cb01-4734-a643-77ca113ac88d","69dd5ef2-96b5-4577-b42b-c560efba39c9","init","start","chat-with-data","2024-07-26 05:30:07","2024-07-26 05:57:09","Podcast sur James C. Scott",NULL
+"ce3d1175-6803-4c92-9605-0925e702201a","95c4e8fa-8c15-4072-84e9-597eadc4e79d","init","start","chat-with-data","2024-07-25 11:07:49","2024-07-25 11:08:10","Formations Obsidian",NULL
+"ceb5b44a-27b3-4c35-8c4f-ab0fef2a4f2e","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"cf4bf818-550c-43b0-80bb-a3b62508fcfa","98392cf2-f7b1-4f5d-a9fe-d3efa67e7ebd","init","start","chat-with-data","2024-07-18 13:48:52","2024-07-18 13:49:28","Révolutions et Défis de l'IA",NULL
+"d0519a6e-02ec-4609-ab68-c0fad73b1d79","8cda0810-4230-4305-8892-41c7d2a51f0c","init","start","chat-with-data","2024-07-11 15:31:47","2024-07-11 15:31:52","
+# PERSONA
+Tu e",NULL
+"d09b239f-090d-414f-892f-f033014de247","015c6170-ffa1-4498-b714-52cb9aac0e31","init","start","chat-with-data","2024-07-16 23:13:21","2024-07-22 21:23:45","Tendances de l'IA générative dans les entreprises",NULL
+"d0b6ebff-0467-4cb9-9c19-2bfa1cf98792","1f7f2587-e2f4-410e-bfc8-c511ae9c70b2","init","start","coach-ia","2024-07-29 12:38:15","2024-07-29 12:38:15",NULL,NULL
+"d0ffc104-18a2-472b-9b6e-277077f8700d","aafb8fc6-6e73-4dca-92f2-618b27bd72e3","init","start","coach-ia","2024-07-26 14:10:41","2024-07-26 14:11:31","Ouverture d'un restaurant mexicain à Madagascar",NULL
+"d1466689-ce9e-4044-bdcc-f81661c52371","43b7803a-56f8-4b32-9456-e77d773e6593","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"d14e1163-8e60-41c0-b4d4-e95f453e8e8d","77d9e334-1c59-42ed-a332-db302ebf1241","init","start","coach-ia","2024-07-25 13:38:44","2024-07-25 14:54:39","Encarts de formation",NULL
+"d1ad2796-290a-4deb-9b8f-8ed5b0c4850a","d8de73c7-19af-46df-b8a3-5a606f869b9e","init","start","coach-ia","2024-07-09 15:48:52","2024-07-09 15:50:07","test",NULL
+"d1f994b0-991d-42b7-b4a0-70d411e469dd","d1d58c3f-c920-44b7-9616-0c67440418e9","init","start","coach-ia","2024-07-15 16:12:51","2024-07-16 08:48:44","FAQ pour myAuxilium",NULL
+"d23a153a-62ca-4597-9da5-8ed3079189dd","1ef214a1-058b-4728-b40f-8682fe3ca5ff","init","start","chat-with-data","2024-07-17 14:47:31","2024-07-19 08:03:19","Expériences de Martin Guichard",NULL
+"d2844ee9-7d56-4014-8e99-6cf651a5aafa","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"d29d4a87-187d-44f0-bdcf-dfee0e40d5eb","8cda0810-4230-4305-8892-41c7d2a51f0c","init","start","chat-with-data","2024-07-10 15:30:00","2024-07-10 15:30:04","Maîtrise de la stérilité : Surmonter tes peurs",NULL
+"d2b96df3-3950-4b76-9080-9f5521d1d666","eee273b4-a7c9-4366-aac8-bdf3dd3561c5","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"d2dd61f5-5d87-4893-b52b-4cb936fe4fcd","a410fe49-0481-4fa6-86c0-4452edda9bb2","init","start","coach-ia","2024-06-24 16:15:54","2024-06-24 16:15:54",NULL,NULL
+"d34b7856-8327-40c3-b9db-f9ec8f4e9746","9348d47b-0f91-4f2f-a66f-74da663f403d","init","start","coach-ia","2024-07-03 08:58:55","2024-07-03 08:59:20",NULL,NULL
+"d462aa41-7395-40b6-881b-36dfb9f7452a","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"d4902f35-bf28-4c10-9ae0-d212561149db","d27c830c-0b15-4655-874c-0e0348191382","init","start","coach-ia",NULL,NULL,NULL,NULL
+"d4acc1d2-ad4e-45fc-97c4-e0c810e6d2ab","eee273b4-a7c9-4366-aac8-bdf3dd3561c5","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"d534283b-704e-44a5-bff7-13d1767aab8f","8bc1f970-c27c-4d8d-af89-a4203177bf85","init","start","coach-ia","2024-06-26 08:37:30","2024-06-26 08:43:54",NULL,NULL
+"d5a50a5e-2dbd-42dc-bbe9-2e7c44e8fded","eee273b4-a7c9-4366-aac8-bdf3dd3561c5","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"d66b0491-d79c-4ce6-845b-519744cecf82","a9b301e3-b421-4c80-a785-1a4274345bb0","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"d67c6e25-05a0-4a2d-b8ca-959989e2fd14","7c964f57-f69b-4460-93d8-be2ca6702748","init","start","coach-ia","2024-06-26 08:28:14","2024-06-26 08:28:14",NULL,NULL
+"d6e1f1ec-040d-40c7-a348-a8fac67a8060","75702be5-dcf1-4aba-ba19-154d382381c5","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"d73adc65-37d9-46fb-86c4-2b43b6968c4c","f14f39a8-2cda-4e69-ba2c-5ccb56889703","init","start","chat-with-data","2024-06-26 09:12:20","2024-06-26 09:22:59",NULL,NULL
+"d856c821-1ff6-41e8-95c8-6bd37a7c3caf","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"d88abc22-3fb7-482b-a6f0-c081e6c16b36","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"d8c952da-7a15-4d07-ac83-31b339c210ff","8cda0810-4230-4305-8892-41c7d2a51f0c","init","start","chat-with-data","2024-07-10 15:50:44","2024-07-10 15:50:48","La peur de la stérilité",NULL
+"d8d573b7-947e-4766-936c-84f68503aeda","1cdf9fba-4c8c-4943-9fb4-006f6b2c2b47","init","start","coach-ia",NULL,NULL,NULL,NULL
+"d8fa68d7-49bf-4162-a324-abeddb2a6bea","77601239-5605-4b18-aebe-53ee93dd0633","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"d90d3592-2578-4dda-9d89-c64ef9baa910","f0f1a15d-ece9-4dbd-8139-405ce6669c7d","init","start","coach-ia","2024-07-31 08:47:43","2024-08-01 08:29:49","Capacités et Assistance",NULL
+"d95ec6b6-c9d3-46ca-b8bb-a8db9a8dcaf4","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"da2d9455-e3ea-4afd-82a9-6fc20165b88e","2e7b819e-6d91-43be-983d-cfffd9a168e3","init","start","chat-with-data","2024-06-24 13:48:13","2024-06-24 13:48:13",NULL,NULL
+"dae5de5c-594b-408a-8d5a-9355d7563fad","2e7b819e-6d91-43be-983d-cfffd9a168e3","init","start","chat-with-data","2024-07-01 13:24:26","2024-07-01 13:24:26",NULL,NULL
+"db04e5d4-1dd5-40cb-83ab-fb8cfa100cac","09f577ac-4b03-418d-ae54-7ab916e855bf","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"db8f14cd-f46c-4577-905b-9590bf446e67","d8de73c7-19af-46df-b8a3-5a606f869b9e","init","start","chat-with-data","2024-06-27 13:13:06","2024-06-27 13:21:10",NULL,NULL
+"dc35204a-1db2-43a6-a0ae-1998806eed2b","98dc150f-1e76-4230-afb4-bbdf35338fce","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"dc3c8ce2-5e35-44db-89c6-7743ff2737f4","f4709151-03b0-41bb-8fd7-8324d31ffcd0","init","start","chat-with-data","2024-07-14 13:07:38","2024-07-14 13:10:01","Escalade du Conflit Israélo-Palestinien",NULL
+"dc40b681-d073-4ae8-913a-02afd1173077","1f7f2587-e2f4-410e-bfc8-c511ae9c70b2","init","start","chat-with-data","2024-07-29 12:38:18","2024-07-29 12:41:18","Tendances Omnicanales 2024",NULL
+"dc7eaec2-2cb1-4a10-96db-9f1c4471a0d4","02c32f70-9a3c-4eda-ada3-c5ec2ad38d18","init","start","coach-ia","2024-07-05 12:56:02","2024-07-05 12:56:21",NULL,NULL
+"dcf2255c-b93f-49e1-819e-fb59b9e99991","a9b301e3-b421-4c80-a785-1a4274345bb0","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"dd7f54da-c4dd-4171-9dad-2981a0ab5dee","2d50e109-afdc-4512-855c-8b7afb420336","init","start","chat-with-data","2024-07-09 04:09:00","2024-07-09 04:09:00",NULL,NULL
+"de37a9f3-7a99-4165-8926-0e942a99fa90","741fa263-49eb-4422-9a51-f9be677c8f5e","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"de7df383-a08f-4263-a04a-fb5601020d64","98392cf2-f7b1-4f5d-a9fe-d3efa67e7ebd","init","start","chat-with-data","2024-07-29 11:01:47","2024-07-29 11:05:42","Logiciels SaaS à Essai Gratuit",NULL
+"de925f81-23b2-4d5c-acaf-ff3b7d4bf0fe","1f7f2587-e2f4-410e-bfc8-c511ae9c70b2","init","start","chat-with-data","2024-07-10 07:50:48","2024-07-10 13:36:52","Optimisation Assurance",NULL
+"de9fcac8-1265-437f-a6e9-faf0ad4602e3","ada40f4b-b1f3-4b32-a671-12c35322314c","init","start","coach-ia","2024-07-22 22:18:22","2024-07-22 22:19:29","Copywriting Book Recommendations",NULL
+"deb66710-ddd7-4083-b200-d147ead48f4f","8cda0810-4230-4305-8892-41c7d2a51f0c","init","start","chat-with-data","2024-07-10 11:27:18","2024-07-10 11:27:22","Formation sur la Maîtrise de la Stérilité",NULL
+"deded660-6a03-44c7-be13-4d2c08d20507","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"dfc173c9-9db5-4994-8ceb-34926a294dbc","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"dff2f39b-53a1-4350-87cc-d9cec4a70702","e9886f70-c410-4baf-a5cc-42c8df21f303","init","start","coach-ia","2024-07-29 09:47:42","2024-07-29 09:53:03","Protection des Gérants",NULL
+"e005294d-ce7c-401d-8289-dd5209fd2170","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"e04a4043-0c57-4439-ae2c-bed25841e899","e87043f4-57e8-417a-ae65-bff3a96ffff8","init","start","coach-ia","2024-06-25 13:43:26","2024-06-25 14:54:16",NULL,NULL
+"e05e0194-142b-44d8-ae61-0f2110c784f8","1f7f2587-e2f4-410e-bfc8-c511ae9c70b2","init","start","chat-with-data","2024-07-31 08:42:47","2024-07-31 12:15:40","Objectifs Prioritaires",NULL
+"e150ae9e-e74b-4b27-88b8-47ef2e0f9c1c","1a44faa1-f89b-4799-a17a-edbfc68938d3","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"e1ac27b5-f88e-4fed-87d2-3bb307b70eb0","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"e288f958-bc86-4d75-9d54-f49b27d7300d","1f7f2587-e2f4-410e-bfc8-c511ae9c70b2","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"e2b4571c-6c19-4d6e-84e7-8546ba653dd5","e26b0214-6729-425d-9d18-f69e81a2ee83","init","start","chat-with-data","2024-07-17 12:21:43","2024-07-17 12:22:54","Les compétences clés de Jean-François Guyomar",NULL
+"e2eb4477-addf-4b15-82d4-3b8efd3f1ea0","1cdf9fba-4c8c-4943-9fb4-006f6b2c2b47","init","start","coach-ia",NULL,NULL,NULL,NULL
+"e320d51c-067f-4fdb-bbff-03bf3e89da86","da58d7d3-2c03-413f-a674-5be3b41b51b7","init","start","chat-with-data","2024-07-16 07:01:50","2024-07-16 07:02:36","Étude de cas AI",NULL
+"e343e741-7e27-4419-81c2-b232b7c3bed7","1f7f2587-e2f4-410e-bfc8-c511ae9c70b2","init","start","chat-with-data","2024-07-29 13:15:51","2024-07-29 13:16:12","IA et Courtage en Assurance",NULL
+"e38d2fee-d968-4673-a2a5-295a46b2ce0b","98dc150f-1e76-4230-afb4-bbdf35338fce","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"e3b8db23-69d5-4b61-974b-a2f41f6a163b","ada40f4b-b1f3-4b32-a671-12c35322314c","init","start","coach-ia","2024-07-22 21:45:43","2024-07-22 21:53:01","Améliorations Landing Page SaaS IA Freelances & En",NULL
+"e3f21be9-507a-4244-a8f3-124ce09bfba9","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"e4fab013-b9d4-4938-8a71-6e90a5b8e6c2","cf7706b6-ff0a-474e-9a79-f040b9363ad4","init","start","chat-with-data","2024-07-19 17:45:47","2024-07-19 17:59:05","Le Rendez-vous",NULL
+"e5ba9b6e-1129-4f18-bbc7-501df8446ecb","03d4f714-9a71-4fab-9ff2-c0fd5d1e97b3","init","start","chat-with-data","2024-07-15 05:45:13","2024-07-15 06:33:10","Méthodologie de l'arbre de pensée",NULL
+"e62b3bb5-b11f-42b3-9ca0-d5cb8604a5e0","df7336e6-081e-44ac-bb40-a802954e93c6","init","start","coach-ia","2024-07-29 10:02:44","2024-07-29 10:03:22","Inscription à Twifone",NULL
+"e64b6d28-1d70-4d44-a78b-754f69a8ebbe","95cbd3b7-a457-45b5-b6c6-27c6df8aa703","init","start","chat-with-data","2024-07-10 09:19:50","2024-07-10 09:51:14","Histoire de la gauche en France",NULL
+"e6912f96-8cc8-4c85-b88f-3904125e302a","fcced9c3-a666-436e-bff3-cc065450d0d5","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"e7ee7408-857e-45b0-a77f-f5a7e8a2cd57","0f5b0870-9a95-4640-87ef-2d7cb465b517","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"e82f8734-6485-4694-8e7e-54c49ed84f53","eee273b4-a7c9-4366-aac8-bdf3dd3561c5","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"e8311a09-def2-4845-8b94-13bd2f25d179","f4709151-03b0-41bb-8fd7-8324d31ffcd0","init","start","chat-with-data","2024-07-14 13:25:10","2024-07-14 13:27:24","Résultats Sportifs - 13 Juillet 2024",NULL
+"e8347640-643b-4654-8cfa-7d5e65f46e7d","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"e943b8b5-f84d-40b5-aecd-8b9eaec913c4","cde16da0-a4c8-4f7e-83fe-590618a476e8","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"ea1504cc-1e90-4556-81ec-d0622a4c517f","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"ea9880a7-a8fe-47ef-ab22-958f589b854e","a9b301e3-b421-4c80-a785-1a4274345bb0","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"eace7d74-3c9c-4d35-86da-f90345324da3","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"eb68260a-ed25-4379-807e-fca61f17b6d3","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"eb806039-17ee-43db-94de-9e98d079b65c","eee273b4-a7c9-4366-aac8-bdf3dd3561c5","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"eb8f12c4-cc39-49e1-9baf-842027b2dd1f","f9bb5eb8-1de9-484a-9bd0-e5102a704184","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"ebbcad6a-7e61-4fc8-90a9-7936a4fe3641","85835e66-62e7-42ab-a9c9-d17d496e66d1","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"ec8f1169-60bf-4854-9a17-c82bcf3d8ce5","552b6343-287b-46c1-99bb-167f024764aa","init","start","chat-with-data",NULL,NULL,"Gaps selling ",NULL
+"edb04ac8-7ed3-4f39-b217-a15768b75b7b","0a7c597d-4bdd-4b18-8aae-523598883c58","init","start","chat-with-data","2024-06-26 09:20:14","2024-06-26 09:33:47",NULL,NULL
+"edbd3b66-7891-43f6-9fbf-4e532a2717b5","95c4e8fa-8c15-4072-84e9-597eadc4e79d","init","start","chat-with-data","2024-07-29 12:59:17","2024-07-29 12:59:45","Vidéos HTML5 et CSS3",NULL
+"ee4d72f9-c8a3-4615-b8f6-76ad5d98acce","eee273b4-a7c9-4366-aac8-bdf3dd3561c5","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"ef4b9f1f-e3c9-4bcb-a152-9c97ad2480e5","98392cf2-f7b1-4f5d-a9fe-d3efa67e7ebd","init","start","chat-with-data","2024-08-01 09:04:00","2024-08-01 09:04:32","Correction de texte",NULL
+"ef57a298-6e10-41c6-8c05-86e3ccb42de6","ada40f4b-b1f3-4b32-a671-12c35322314c","init","start","coach-ia","2024-07-11 06:44:14","2024-07-11 06:45:38","Objectif du Copywriter SaaS B2B",NULL
+"efd39489-7086-4fed-afca-bad2cd226a4a","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"f0cda39c-e638-4383-a2ac-d4324be02171","8b0e209e-7f6f-452d-87c8-c42e49b05c61","init","start","coach-ia",NULL,NULL,NULL,NULL
+"f1ffbbe1-39b0-443e-9b45-3ce8f5641a9a","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"f2daef3c-6032-41a9-b2e2-f09bd49fe1a6","f4709151-03b0-41bb-8fd7-8324d31ffcd0","init","start","chat-with-data","2024-07-14 13:28:31","2024-07-14 13:33:37","Résultats sportifs (sauf courses hippiques)",NULL
+"f2fe211a-d074-4188-9653-8b04b8102363","1f37facd-b240-41eb-94a4-66aea13cbfca","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"f341f4a4-64ad-4f91-b7ce-8ce433b2c1fe","8cda0810-4230-4305-8892-41c7d2a51f0c","init","start","coach-ia","2024-07-10 10:51:13","2024-07-10 10:51:13",NULL,NULL
+"f343a1a0-d7f2-462d-953e-d263fabb2268","e308d818-2851-4e67-9587-2ecb323bb571","init","start","coach-ia",NULL,NULL,NULL,NULL
+"f37002af-8c4c-4fc0-9e0a-fbe862aa1c7b","552b6343-287b-46c1-99bb-167f024764aa","init","start","coach-ia","2024-06-23 15:43:17","2024-06-23 15:43:17",NULL,NULL
+"f38024fa-5cce-4a69-aae6-c2b622cccbf5","5da66891-11aa-4bae-bfde-7c5117754baf","init","start","chat-with-data","2024-07-25 10:32:22","2024-07-25 10:38:52","LinkedIn Consultant Search",NULL
+"f3998c84-202f-4e06-806c-59574c1d96ef","a410fe49-0481-4fa6-86c0-4452edda9bb2","init","start","chat-with-data","2024-06-25 07:02:23","2024-06-25 07:02:23",NULL,NULL
+"f473122c-894c-4978-8c5e-e31cff50a4ed","9348d47b-0f91-4f2f-a66f-74da663f403d","init","start","chat-with-data","2024-07-03 08:59:40","2024-07-03 09:02:29",NULL,NULL
+"f47fb3c3-a1c0-435d-baaf-4bf3e8c648a3",NULL,"init","start","chat-simple","2024-08-02 12:08:19","2024-08-05 09:54:35","poemes","5c427b8e-b7e8-4731-8f7c-3a88d69829b2"
+"f495ef9d-edbb-4d51-b54a-50be8c526f4b","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"f4a25748-1490-484d-b760-b3df10152973","da58d7d3-2c03-413f-a674-5be3b41b51b7","init","start","coach-ia","2024-07-15 16:55:28","2024-07-15 17:06:14","AI Policy Area Interview Prep",NULL
+"f4ed8fd4-89f4-4528-bbbf-95d9ac377376","1f7f2587-e2f4-410e-bfc8-c511ae9c70b2","init","start","coach-ia","2024-06-27 12:41:48","2024-06-27 13:18:11",NULL,NULL
+"f5728ae6-2507-4e38-bf27-2844d9bf74c3","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"f5d0fe56-5c10-4ff2-a383-07addd7bdad6","7983f034-9989-461a-acb3-e8952534d61f","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"f601da9e-1c8b-4edb-997c-f5e1aefa98ab","ec9693b2-b5d8-419f-861d-0403d071ea76","init","start","coach-ia","2024-07-05 07:56:32","2024-07-05 10:00:08",NULL,NULL
+"f6d451d0-01c7-4958-a6e2-02010b03b674","0edef36d-a6e6-4ea6-9240-d109f6488d7e","init","start","coach-ia","2024-07-26 13:07:30","2024-07-26 13:24:01","Analyse des paris équestres",NULL
+"f72b6ea2-2043-43cd-8749-45e24b82eac8","a0f2428d-196d-497e-b0c4-0627eb6cc72d","init","start","chat-with-data","2024-07-30 23:06:11","2024-07-30 23:09:06","Éducation et Satire",NULL
+"f8463f47-88a3-4098-bc28-43bef0e63ffc","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"f8b19d31-e110-410f-8940-6f9eed301b58","d3cb6a40-eced-4a11-8620-7b82b43cd42c","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"f93ce390-bb85-4fa6-9b02-79b023ad0251","cd0e9f6e-1580-4238-98e0-e24bcd3f1007","init","start","chat-with-data","2024-06-25 09:24:43","2024-06-26 08:19:24",NULL,NULL
+"f95b895e-e8d3-46d3-ad78-c39ea0cbf2ec","eee273b4-a7c9-4366-aac8-bdf3dd3561c5","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"f9cf0019-d6f5-4005-8d76-56234b790fbd","9348d47b-0f91-4f2f-a66f-74da663f403d","init","start","coach-ia","2024-06-24 20:00:17","2024-06-26 09:18:49",NULL,NULL
+"fa49cb23-43f2-4036-af4e-cdd7c70e635c","8cda0810-4230-4305-8892-41c7d2a51f0c","init","start","chat-with-data","2024-07-10 14:06:12","2024-07-10 14:06:29",NULL,NULL
+"fa63e3e0-e97d-4d16-a8f3-7d2f0051e5a7","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"faf472d4-050f-4fe0-a0ba-554e63f834d4","2e7b819e-6d91-43be-983d-cfffd9a168e3","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"fafb894d-d83b-4766-9e2c-38d84d95ffdb","87ace397-7564-4208-bc0d-08cbafe48a31","init","start","coach-ia",NULL,NULL,NULL,NULL
+"fb005bdb-574c-429c-9f02-54f21d81dae7","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"fb3e6e8f-d83a-4326-a0e3-b89ea5ba4804","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"fb82ee43-5c76-4040-a450-ce9274c29a0d","95cbd3b7-a457-45b5-b6c6-27c6df8aa703","init","start","chat-with-data","2024-07-10 10:48:33","2024-07-10 10:56:27","Éclaircissez-moi",NULL
+"fbed0ec1-b295-49fe-858a-1b2613d28702","5d395519-c82e-462a-b38c-42ef69b22473","init","start","coach-ia","2024-07-09 05:19:35","2024-07-09 09:52:24",NULL,NULL
+"fbff2712-c5fa-45f7-b95c-48d9ab42cecd","f6bb243d-af32-40b7-b28e-6ff69880f2b7","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"fc3380c0-d365-4dd3-88f5-6e78e42d8b77","e358678d-1bac-4d94-b2f1-967f7b8445c5","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"fc42f8c8-9aaa-48c0-a464-cf916bbef692","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"fe2a7efb-a00d-4b96-b21b-4b66aa4ff5fd","ab2ae71d-9cfd-4da3-8c05-53a92517f61c","init","start","chat-with-data","2024-07-09 19:27:19","2024-07-09 19:40:41","Opinions sur MyA",NULL
+"fe82292e-4115-498b-9d64-008c9e7f3722","1f7f2587-e2f4-410e-bfc8-c511ae9c70b2","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"fe8a4e78-da61-4895-b9db-cf43a1eaa904","f4709151-03b0-41bb-8fd7-8324d31ffcd0","init","start","chat-with-data","2024-07-23 15:06:07","2024-07-23 15:11:17","Tentative d'assassinat de Trump : Impact sur la po",NULL
+"ff13f28d-daa1-4499-afc6-308c5b0028af","b4d93636-df57-4ede-9ebe-3452e1ce891d","init","start","chat-with-data",NULL,NULL,NULL,NULL
+"ffdcf03d-43f1-4639-8fa7-58749b5b9566","a58e1ada-7ff3-41b3-be7f-71e7872111ae","init","start","coach-ia",NULL,NULL,NULL,NULL
